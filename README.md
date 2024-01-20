@@ -27,4 +27,4 @@ Whatever, I will try to add an explanation for all the problems.* :)
 ## Topics
 ### Dynamic Arrays (Vector)
 1. ***[Explanation File](Dynamic-Array/Dynamic-Array.md)***
-2. ***[Code File](Dynamic-Array/vector.md)***
+2. ***[Code File](Dynamic-Array/vector.cpp)***
