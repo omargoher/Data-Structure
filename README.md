@@ -5,8 +5,8 @@
 3. knowledge of ***Object-Oriented*** (don't need depth knowledge)
    
 **recommended**
-1. Knowledge of ****STLs***
-2. Knowledge of ***Asymptotic Complexity***
+1. Knowledge of ***STLs***
+2. Knowledge of ***Asymptotic Complexity*** 
 3. Problem-Solving Skil
 
 ## What's in that repo?
