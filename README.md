@@ -1,12 +1,13 @@
 # Data-Structure
 **prerequisite**
-1. knowledge of C++ (Basics)
-2. Good knowledge of pointers in C++
-3. knowledge of Object-Oriented (don't need depth knowledge)
+1. knowledge of C++ ***(Basics)***
+2. Good knowledge of ***pointers*** in C++
+3. knowledge of ***Object-Oriented*** (don't need depth knowledge)
    
 **recommended**
-1. Knowledge of STLs
-2. Problem Solving Skil
+1. Knowledge of ****STLs***
+2. Knowledge of ***Asymptotic Complexity***
+3. Problem-Solving Skil
 
 ## What's in that repo?
 every topic contains 3 main things
