@@ -7,3 +7,6 @@
 1. Merge Sorted Array
    * [The Problem](https://leetcode.com/problems/merge-sorted-array/)
    * [The Solution](https://leetcode.com/problems/merge-sorted-array/solutions/4604180/beats-100-solve-merge-sorted-array)
+2. Remove Element
+   * [The Problem](https://leetcode.com/problems/remove-element/)
+   * [The Solution](https://leetcode.com/problems/remove-element/solutions/4633283/best-100-c-simple-solution)
