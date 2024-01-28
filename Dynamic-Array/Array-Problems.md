@@ -10,3 +10,6 @@
 2. Remove Element
    * [The Problem](https://leetcode.com/problems/remove-element/)
    * [The Solution](https://leetcode.com/problems/remove-element/solutions/4633283/best-100-c-simple-solution)
+3. Remove Duplicates from Sorted Array
+   * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+   * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/4637858/simple-solution-beginner-friendly)
