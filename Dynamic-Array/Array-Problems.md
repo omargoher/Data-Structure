@@ -13,3 +13,6 @@
 3. Remove Duplicates from Sorted Array
    * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
    * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/4637858/simple-solution-beginner-friendly)
+4. Remove Duplicates from Sorted Array II
+    * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+    * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1160038364)
