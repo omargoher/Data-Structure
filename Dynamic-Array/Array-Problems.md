@@ -16,3 +16,6 @@
 4. Remove Duplicates from Sorted Array II
     * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
     * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1160038364)
+5. Majority Element
+    * [The Problem](https://leetcode.com/problems/majority-element/)
+    * [The Solution](https://leetcode.com/problems/majority-element/solutions/3676530/3-method-s-beats-100-c-java-python-beginner-friendly)
