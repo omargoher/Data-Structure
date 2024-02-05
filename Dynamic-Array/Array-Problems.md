@@ -19,6 +19,9 @@
 5. Majority Element
     * [The Problem](https://leetcode.com/problems/majority-element/)
     * [The Solution](https://leetcode.com/problems/majority-element/solutions/3676530/3-method-s-beats-100-c-java-python-beginner-friendly)
-5. Rotate Array
+6. Rotate Array
     * [The Problem](https://leetcode.com/problems/rotate-array/)
     * [The Solution](https://leetcode.com/problems/rotate-array/submissions/1166156967?envType=study-plan-v2&envId=top-interview-150)
+7. Best Time to Buy and Sell Stock
+    * [The Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+    * [The Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1166535077?envType=study-plan-v2&envId=top-interview-150)
