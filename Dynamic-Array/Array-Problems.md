@@ -13,15 +13,20 @@
 3. Remove Duplicates from Sorted Array
    * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
    * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/4637858/simple-solution-beginner-friendly)
-4. Remove Duplicates from Sorted Array II
-    * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
-    * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1160038364)
-5. Majority Element
+4. Majority Element
     * [The Problem](https://leetcode.com/problems/majority-element/)
     * [The Solution](https://leetcode.com/problems/majority-element/solutions/3676530/3-method-s-beats-100-c-java-python-beginner-friendly)
-6. Rotate Array
-    * [The Problem](https://leetcode.com/problems/rotate-array/)
-    * [The Solution](https://leetcode.com/problems/rotate-array/submissions/1166156967?envType=study-plan-v2&envId=top-interview-150)
-7. Best Time to Buy and Sell Stock
+5. Best Time to Buy and Sell Stock
     * [The Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     * [The Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1166535077?envType=study-plan-v2&envId=top-interview-150)
+6. Roman to Integer
+    * [The Problem](https://leetcode.com/problems/roman-to-integer/)
+    * [The Solution](https://leetcode.com/problems/roman-to-integer/submissions/1167871562?envType=study-plan-v2&envId=top-interview-150)
+---
+**Medium**
+1. Remove Duplicates from Sorted Array II
+    * [The Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+    * [The Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/submissions/1160038364)
+2. Rotate Array
+    * [The Problem](https://leetcode.com/problems/rotate-array/)
+    * [The Solution](https://leetcode.com/problems/rotate-array/submissions/1166156967?envType=study-plan-v2&envId=top-interview-150)
