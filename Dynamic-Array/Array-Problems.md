@@ -1,5 +1,5 @@
 # - Important Notes -
-1. Problems in this file from [leetcode](https://leetcode.com/).
+1. Problems in this file from [leetcode](https://leetcode.com/studyplan/top-interview-150/).
 2. these problems are for array, not just dynamic array.
 3. you must try to solve the problem first then, read my Solution :)
 # Problems
@@ -22,6 +22,9 @@
 6. Roman to Integer
     * [The Problem](https://leetcode.com/problems/roman-to-integer/)
     * [The Solution](https://leetcode.com/problems/roman-to-integer/submissions/1167871562?envType=study-plan-v2&envId=top-interview-150)
+7. Find the Index of the First Occurrence in a String
+    * [The Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+    * [The Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1172674462?envType=study-plan-v2&envId=top-interview-150)
 ---
 **Medium**
 1. Remove Duplicates from Sorted Array II
