@@ -25,6 +25,9 @@
 7. Find the Index of the First Occurrence in a String
     * [The Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
     * [The Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1172674462?envType=study-plan-v2&envId=top-interview-150)
+8. Length of Last Word
+    * [The Problem](https://leetcode.com/problems/length-of-last-word/)
+    * [The Solution](https://leetcode.com/problems/longest-common-prefix/solutions/4182958/java-c-python-beats-100-beginner-s-friendly)
 ---
 **Medium**
 1. Remove Duplicates from Sorted Array II
