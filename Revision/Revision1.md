@@ -1,4 +1,4 @@
-# DataTypes -> 20 Minutes
+# DataTypes
 ## **Primitive Data Types**
 - The basic data types that are predefined by the language. These types represent the simplest form of data and are not objects or classes. They are used to store simple values like numbers, characters, and booleans. Primitive types have a fixed size in memory, making them efficient for storage and processing.
 
