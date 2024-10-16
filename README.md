@@ -11,13 +11,13 @@
 
 ## What's in that repo?
 every topic contains 3 main things
-1. Topic explanation file.
+1. Topic explanation file & Recorded session.
 2. Topic code file.
 3. Solve some problems and explain them.
 
 ## How are you can use this repo?
 You can use this repo to study ***data structure*** 
-1. Begin with an ***explanation file*** and you must Good understanding of this file.
+1. Begin with an ***explanation file & Recorded session*** and you must Good understanding of this Topic.
 2. Then write the code yourself and then open the code file and check if you have done everything well.
 3. so, now you are ready to solve problems about this topic open the problems file there you find some problems in ***[leetcode](https://leetcode.com/)***
    first, you must try to solve the problems by yourself then you can open the solution file and there also you will find the explanation for the solution.
@@ -26,7 +26,12 @@ You can use this repo to study ***data structure***
 Whatever, I will try to add an explanation for all the problems.* :)
 
 ## Topics
+### Revision 1 (Data Types, Conditions, Loops, Arrays)
+1. ***[Explanation File](Revision/Revision1.md)***
+### Revision 2 (Struct, Pointers)
+1. ***[Explanation File](Revision/Revision2.md)***
+2. ***[Problems File](Revision/Problems.md)***
 ### Dynamic Arrays (Vector)
-1. ***[Explanation File](Dynamic-Array/Dynamic-Array.md)***
-2. ***[Code File](Dynamic-Array/vector.cpp)***
-3. ***[Problems File](Dynamic-Array/Array-Problems.md)***
+1. ***[Explanation File](DynamicArray/Explanation.md)***
+2. ***[Code File](DynamicArray/Code.cpp)***
+3. ***[Problems File](DynamicArray/Problems.md)***
