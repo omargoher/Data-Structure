@@ -70,14 +70,19 @@
         ![alt text](image/image-17.png)
 
     3. Then delete the first node.
+       
         ![alt text](image/image-18.png)
+    
 - **Delete from the end**
     1. Create a new pointer that points to the last node.
     ![alt text](image/image-19.png)
     2. Then delete the last node.
-    ![alt text](image/image-20.png)
 
+       ![alt text](image/image-20.png)
+
+       
 - **Delete from the middle**
+  
     ![alt text](image/image-21.png)
     - Note: We need to delete the node with the ``value 3``.
     1. Create a pointer that points to the node before the target node.
