@@ -27,11 +27,19 @@ Whatever, I will try to add an explanation for all the problems.* :)
 
 ## Topics
 ### Revision 1 (Data Types, Conditions, Loops, Arrays)
-1. ***[Explanation File](Revision/Revision1.md)***
+1. ***[Session](https://drive.google.com/file/d/1ZC7Y6V9Qxii8Z5lA_1j7cJk9dW-kUEEz/view?usp=sharing)***
+2. ***[Explanation File](Revision/Revision1.md)***
 ### Revision 2 (Struct, Pointers)
-1. ***[Explanation File](Revision/Revision2.md)***
-2. ***[Problems File](Revision/Problems.md)***
+1. ***[Session](https://drive.google.com/file/d/1VhShNGNPbjSDBZXcpFgdv_xsqMnD7vbH/view?usp=sharing)***
+2. ***[Explanation File](Revision/Revision2.md)***
+3. ***[Problems File](Revision/Problems.md)***
 ### Dynamic Arrays (Vector)
 1. ***[Explanation File](DynamicArray/Explanation.md)***
 2. ***[Code File](DynamicArray/Code.cpp)***
 3. ***[Problems File](DynamicArray/Problems.md)***
+### Linked-List
+1. ***[Session](https://drive.google.com/file/d/1_dgnnB_eq_Z1LWQJCTLCKLloO2HU8n0K/view?usp=sharing)***
+2. ***[Explanation File](LinkedList/Explanation.md)***
+3. ***[Code File](LinkedList/Code.cpp)***
+4. ***[Problems File](LinkedList/Problems.md)***
+
