@@ -2,14 +2,16 @@
 1. Problems in this file from [leetcode](https://leetcode.com/studyplan/top-interview-150/).
 2. you must try to solve the problem first then, read my Solution :)
 
-# Assignment 
+# Assignment
 - Create insert at middle (single linked list) method.
 - Create delete from beginning (single linked list) method.
 - Create delete from end (single linked list) method.
+
+[The Solution](https://drive.google.com/file/d/1muy3zUOvbwYDCNgE-5kbBDSTGzWiX3EA/view?usp=sharing)
+
 **optional**
 * try Create insert and delete in double linked list .
 * display double linked list.
-[Solution]()
 
 # Problems
 
